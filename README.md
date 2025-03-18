@@ -158,5 +158,3 @@ Deliveries
   
 * Use the paid version for a stable URL.
 
-
-
