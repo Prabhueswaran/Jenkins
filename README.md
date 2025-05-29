@@ -156,6 +156,4 @@ Deliveries
   ```sh Copy Edit
   ngrok http 8080 
   
-* Use the paid version for a stable URL.
-
-
+* Use the paid version for a stable URL
